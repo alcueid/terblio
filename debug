@@ -1,0 +1,718 @@
+after strncpy
+len = 4
+fname = term1
+after opening the output file
+str =   });
+
+KEYSTRING = <h2 class=midashigo
+str = </script>
+
+KEYSTRING = <h2 class=midashigo
+str = </head>
+
+KEYSTRING = <h2 class=midashigo
+str = <!--termとは ターム 本文-->
+
+KEYSTRING = <h2 class=midashigo
+str = <body>
+
+KEYSTRING = <h2 class=midashigo
+str = <!-- ヘッダ-->
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=headWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <a href="javascript:vaid(0)" id="loginStatus" data-login="false" data-premium="false"></a>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=headTabWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=headTab>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <table ID=logoBar>
+
+KEYSTRING = <h2 class=midashigo
+str = <tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td ID=logo>
+
+KEYSTRING = <h2 class=midashigo
+str = <div id="logoTxtWrp">
+
+KEYSTRING = <h2 class=midashigo
+str = <a href="http://ejje.weblio.jp/" title="英和辞典・和英辞典 - Weblio辞書">
+
+KEYSTRING = <h2 class=midashigo
+str = <img src="http://www.westatic.com/img/icons/logo.png" alt="英和辞典・和英辞典 - Weblio辞書">
+
+KEYSTRING = <h2 class=midashigo
+str = </a>
+
+KEYSTRING = <h2 class=midashigo
+str = <span class=logoTxt>英和辞典・和英辞典</span>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td>
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=logoBarTE>
+
+KEYSTRING = <h2 class=midashigo
+str = 1033万語<br>収録！</div></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=headTabTd>
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=submenuBoxWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <table>
+
+KEYSTRING = <h2 class=midashigo
+str = <tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="location.href='http://ejje.weblio.jp/'" id=CONTENT class="formBoxENo  formBoxENoSelf">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="location.href='http://ejje.weblio.jp/'" href="http://ejje.weblio.jp/" title="英和・和英辞典">英和和英辞典</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'http://ejje.weblio.jp/sentence/content/');" id=SENTENCE class="formBoxENo ">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'http://ejje.weblio.jp/sentence/content/')" href="http://ejje.weblio.jp/sentence/" title="英語例文">英語例文</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'http://ejje.weblio.jp/english-thesaurus/content/');" id=ENGLISH_THESAURUS class="formBoxENo ">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'http://ejje.weblio.jp/english-thesaurus/content/')" href="http://ejje.weblio.jp/english-thesaurus/" title="英語類語">英語類語</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'http://ejje.weblio.jp/concordance/content/');" id=CONCORDANCE class="formBoxENo ">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'http://ejje.weblio.jp/concordance/content/')" href="http://ejje.weblio.jp/concordance/" title="共起表現">共起表現</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="location.href='http://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free'" id=UWL class="formBoxENo ">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="location.href='http://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free'" href="http://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free" title="英単語帳">英単語帳</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'http://uwl.weblio.jp/vocab-index');" id=UWL_VOCAB class="formBoxENo gtm-glb-vocab_test">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'http://uwl.weblio.jp/vocab-index')" href="http://uwl.weblio.jp/vocab-index" title="英語力診断">英語力診断</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="location.href='http://translate.weblio.jp/'" id=TRANSLATE class="formBoxENo gtm-glb-trns">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="location.href='http://translate.weblio.jp/'" href="http://translate.weblio.jp/" title="英語翻訳">英語翻訳</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="location.href='https://eikaiwa.weblio.jp/'" id=WEBLIO_EIKAIWA class="formBoxENo ">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="location.href='https://eikaiwa.weblio.jp/'" href="https://eikaiwa.weblio.jp/" title="Weblio英会話">英会話</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="location.href='https://uwl.weblio.jp/speaking-test?wpm_source=ejje_glonavi&amp;wpm_campaign=speaking-test&amp;wpm_medium=link'" id=SPEAKING_TEST class="formBoxENo ">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="location.href='https://uwl.weblio.jp/speaking-test?wpm_source=ejje_glonavi&amp;wpm_campaign=speaking-test&amp;wpm_medium=link'" href="https://uwl.weblio.jp/speaking-test?wpm_source=ejje_glonavi&amp;wpm_campaign=speaking-test&amp;wpm_medium=link" title="スピーキングテスト">スピーキングテスト</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="location.href='https://accounts.weblio.jp/exclusive_benefits'" id=EXCLUSIVE class="formBoxENo gtm-glb-ex_benefit">
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="location.href='https://accounts.weblio.jp/exclusive_benefits'" href="https://accounts.weblio.jp/exclusive_benefits" title="英和・和英辞典">優待特典</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=emptyTd></td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr>
+
+KEYSTRING = <h2 class=midashigo
+str = </table>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=headMidashiE>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr>
+
+KEYSTRING = <h2 class=midashigo
+str = </table>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=headFormWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <div id=headForm>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <table>
+
+KEYSTRING = <h2 class=midashigo
+str = <tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td>
+
+KEYSTRING = <h2 class=midashigo
+str = <form action="http://ejje.weblio.jp/content_find" method="get" name="f">
+
+KEYSTRING = <h2 class=midashigo
+str = <table class=formBoxIWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td id="headTurboLink"><p id="turbo" status="0"><img src="http://www.westatic.com/img/icons/turbo_off.png" alt="" class="formBoxLEFxFmBtn"></p></td><td class=formBoxInputTd><input maxlength="2048" type="text" name="query" class=formBoxITxt id=searchWord value="term" onFocus="erasePlaceholder(this);" onBlur="showPlaceholder(this);"></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=formBoxClearTd><div class=formBoxIClIcnNonWrp><div class="combo_txt_clr formBoxIClIcnNon" onclick="setFormFocus();"></div></div></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td ID=headFixBxTC><div class=formSelectWrp><select name="searchType" class=formSelect>
+
+KEYSTRING = <h2 class=midashigo
+str = <option value="exact" selected>と一致する</option>
+
+KEYSTRING = <h2 class=midashigo
+str = <option value="prefix">で始まる</option>
+
+KEYSTRING = <h2 class=midashigo
+str = <option value="contains">を含む</option>
+
+KEYSTRING = <h2 class=midashigo
+str = <option value="suffix">で終わる</option>
+
+KEYSTRING = <h2 class=midashigo
+str = <option value="text">を解説文に含む</option>
+
+KEYSTRING = <h2 class=midashigo
+str = </select></div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td ID=headFixBxTR>
+
+KEYSTRING = <h2 class=midashigo
+str = <input type="submit" value="項目を検索" class=formButton onclick="erasePlaceholder(document.getElementById('searchWord'));" onmousedown="displayPushedButton(this, 0, 2);" onmouseup="this.setAttribute('style', '');" onmouseover="changeBackgroundColor(this, '#766c66');" onmouseout="this.setAttribute('style', '');">
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td><b ID=komado onclick="return formBoxSmWin('http://ejje.weblio.jp/small/content/term')"><img src="http://www.westatic.com/img/icons/computer.png" alt="" class=formBoxLEFxFmBtn><br>小窓モード</b></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td><p ID=random>
+
+KEYSTRING = <h2 class=midashigo
+str = <button type="submit" name="random-select" value="code" class=formBoxRnd><img src="http://www.westatic.com/img/icons/random.png" alt="" class=formBoxLEFxFmBtn><br>ランダム表示</button>
+
+KEYSTRING = <h2 class=midashigo
+str = </p></td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr>
+
+KEYSTRING = <h2 class=midashigo
+str = </table>
+
+KEYSTRING = <h2 class=midashigo
+str = </form>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=headFormBar></div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="window.location='http://uwl.weblio.jp/ps/?wpm_source=ejje_content&amp;wpm_medium=link&amp;wpm_content=ejje-top-navi&amp;wpm_campaign=premium'" class="formBoxRGHT">
+
+KEYSTRING = <h2 class=midashigo
+str = <img src="http://www.westatic.com/img/icons/badge.png" alt=""><br>
+
+KEYSTRING = <h2 class=midashigo
+str = <a href="http://uwl.weblio.jp/ps/?wpm_source=ejje_content&amp;wpm_medium=link&amp;wpm_content=ejje-top-navi&amp;wpm_campaign=premium" title="プレミアム">プレミアム</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="setFormFocus();ht(this, 'https://uwl.weblio.jp/accounts/login-entry?done=http%3A%2F%2Fejje.weblio.jp%2Fcontent%2Fterm&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login');" class="formBoxRGHT">
+
+KEYSTRING = <h2 class=midashigo
+str = <img src="http://www.westatic.com/img/icons/login.png" alt=""><br>
+
+KEYSTRING = <h2 class=midashigo
+str = <a onclick="setFormFocus();return cu(this, 'https://uwl.weblio.jp/accounts/login-entry?done=http%3A%2F%2Fejje.weblio.jp%2Fcontent%2Fterm&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login');" href="https://uwl.weblio.jp/accounts/login-entry?done=http%3A%2F%2Fejje.weblio.jp%2Fcontent%2Fterm&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login" title="ログイン">ログイン</a>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td onclick="popUpLoginWindow('http://ejje.weblio.jp/dict-order-setting');" class="formBoxRGHT">
+
+KEYSTRING = <h2 class=midashigo
+str = <img src="http://www.westatic.com/img/icons/gear-arrow.png" alt="設定" title="設定">
+
+KEYSTRING = <h2 class=midashigo
+str = <p class=configBottom>設定</p>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr>
+
+KEYSTRING = <h2 class=midashigo
+str = </table>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <script type="text/javascript"><!--
+
+KEYSTRING = <h2 class=midashigo
+str = $(document).ready(function(){
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = });
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = //--></script>
+
+KEYSTRING = <h2 class=midashigo
+str = <!-- ヘッダ -->
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=contentWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=contentBodyWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=contentBody>
+
+KEYSTRING = <h2 class=midashigo
+str = <!-- コンテント -->
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=main>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=topic><table><tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=topicL>
+
+KEYSTRING = <h2 class=midashigo
+str = <!-- interest_match_relevant_zone_start -->
+
+KEYSTRING = <h2 class=midashigo
+str = <div ID=topicWrp><a href="http://www.weblio.jp/" title="辞典・百科事典の検索サービス - Weblio辞書">Weblio 辞書</a> &gt; <a href="http://ejje.weblio.jp/" title="英和辞典・和英辞典">英和辞典・和英辞典</a> &gt; <a href="http://ejje.weblio.jp/category/dictionary/kenej/a" title="英和辞典">英和辞典</a> &gt; <b class=highlight>termの意味・解説</b>&nbsp;</div>
+
+KEYSTRING = <h2 class=midashigo
+str = <!-- interest_match_relevant_zone_end -->
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=topicR>
+
+KEYSTRING = <h2 class=midashigo
+str = <script type="text/javascript">
+
+KEYSTRING = <h2 class=midashigo
+str = <!--
+
+KEYSTRING = <h2 class=midashigo
+str = outCntWrRnw(false,'e', 'term', false,-1,'http://ejje.weblio.jp/content/term');
+
+KEYSTRING = <h2 class=midashigo
+str = //-->
+
+KEYSTRING = <h2 class=midashigo
+str = </script>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr></table></div>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=subMenuTop><div class=subMenuTWrp><table class=subMenuT><tr class=subMenuTR><td class=subMenuOn>意味</td><td class=subMenuOff><a class=sb-anchor-sentence href="http://ejje.weblio.jp/sentence/content/term">例文</a><span class=subMenuTotalCount> (999件)</span></td><td class=subMenuOff><a class=sb-anchor-english-thesaurus href="http://ejje.weblio.jp/english-thesaurus/content/term">類語</a></td><td class=subMenuOff><a class=sb-anchor-concordance href="http://ejje.weblio.jp/concordance/content/term">共起表現</a></td><td class=subMenuEmp>&nbsp;</td></tr></table></div></div>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=mainBlock>
+
+KEYSTRING = <h2 class=midashigo
+str = <script type="text/javascript">
+
+KEYSTRING = <h2 class=midashigo
+str = <!--
+
+KEYSTRING = <h2 class=midashigo
+str = adScS('cp824.js');
+
+KEYSTRING = <h2 class=midashigo
+str = //-->
+
+KEYSTRING = <h2 class=midashigo
+str = </script>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = <div id=summary class="mainBlock hlt_SUMRY">
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=addLmFdWr id=addLmFdWrHdId></div>
+
+KEYSTRING = <h2 class=midashigo
+str = <table class=summaryTbl><tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=summaryL><h1 title="termとは"><span ID=h1Query>term</span><span id=h1Suffix>とは</span></h1></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=summaryC>
+
+KEYSTRING = <h2 class=midashigo
+str = <table><tr><td><div ID=ePsdQc></div><i class="fa fa-volume-up contentTopAudioIcon"><audio class=contentAudio controls="controls" preload="none"><source src="http://www.westatic.com/img/dict/kenej/audio/S-D73C79C_E-D73E908.mp3" type="audio/mpeg"></audio></i></td><td><div ID=ePsdDl><a href="http://www.westatic.com/img/dict/kenej/audio/S-D73C79C_E-D73E908.mp3" id="audioDownloadPlayUrl"><i class="fa fa-play-circle"></i><br></div></td></tr><tr><td><span>クイック再生</span></td><td><span>プレーヤー再生</span></td></tr></table>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=pin-icon-cell><table><tr><td>
+
+KEYSTRING = <h2 class=midashigo
+str = <i id=icon-pin-word class="fa fa-thumb-tack fa-rotate-315" aria-hidden=true></i>
+
+KEYSTRING = <h2 class=midashigo
+str = </td></tr><tr><td><span>ピン留め</span></td></tr></table></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=summaryR>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class="commonBtn wlaBtnI" id=addUwl data-encquery="term">
+
+KEYSTRING = <h2 class=midashigo
+str = <img src="http://www.westatic.com/img/icons/addWordlist.png" alt="">
+
+KEYSTRING = <h2 class=midashigo
+str = <span class="gtm-addUwl-str">単語を追加</span>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr></table>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class="summaryM descriptionWrp"><table><tbody><tr><td><b class="squareCircle description">主な意味</b></td><td class=content-explanation>(学校・大学の 3 学期制度の) 1 学期、(一定の)期間、期限、任期、(家賃・賃金などの支払いの)期日、勘定日、出産予定日、(裁判所・議会などの)開催期間、(専門分野での)術語、用語</td></tr></tbody></table></div>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class="summaryM EGateCoreDataWrp">
+
+KEYSTRING = <h2 class=midashigo
+str = <table><tbody><tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td>
+
+KEYSTRING = <h2 class=midashigo
+str = <b class="squareCircle description">コア</b>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class=eGCoreDta>
+
+KEYSTRING = <h2 class=midashigo
+str = 限界を定める枠
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr></tbody></table>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=summaryM><table><tr>
+
+KEYSTRING = <h2 class=midashigo
+str = <td><b class=squareCircle>音節</b></td><td><span class=syllableEjje>term</span></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td><b class=squareCircle>発音記号・読み方</b></td><td><div ID=phoneticEjjeNavi>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=phoneticEjjeWrp><span class=phoneticEjjeSym>/</span><span class=phoneticEjjeDesc>tˈɚːm</span><span class=phoneticEjjeDc>(米国英語)</span>, <span class=phoneticEjjeDesc>tˈəːm</span><span class=phoneticEjjeDc>(英国英語)</span><span class=phoneticEjjeSym>/</span></div>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td>
+
+KEYSTRING = <h2 class=midashigo
+str = </tr></table></div>
+
+KEYSTRING = <h2 class=midashigo
+str = <table class=intrst><tr><td class=intrstL><h2>termの<br>変形一覧</h2></td><td class="intrstR"><table><tr><td class=conjugateRowL>動詞：</td><td class=conjugateRowR><a href="http://ejje.weblio.jp/content/terming" title="termingの意味">terming</a><span>(現在分詞)</span>  <a href="http://ejje.weblio.jp/content/termed" title="termedの意味">termed</a><span>(過去形)</span>  <a href="http://ejje.weblio.jp/content/termed" title="termedの意味">termed</a><span>(過去分詞)</span>  <a href="http://ejje.weblio.jp/content/terms" title="termsの意味">terms</a><span>(三人称単数現在)</span></td></tr><tr><td class=conjugateRowL>名詞：</td><td class=conjugateRowR><a href="http://ejje.weblio.jp/content/terms" title="termsの意味">terms</a><span>(複数形)</span></td></tr></table></td></tr></table>
+
+KEYSTRING = <h2 class=midashigo
+str = <table class=intrst><tr><td class=intrstL><h2>termの<br>イディオムやフレーズ</h2></td><td class=intrstR><div class=phraseEjjeDesc><a href="http://ejje.weblio.jp/content/come+to+terms" title="come to terms">come to terms</a>, <a href="http://ejje.weblio.jp/content/in+no+uncertain+terms" title="in no uncertain terms">in no uncertain terms</a>, <a href="http://ejje.weblio.jp/content/in+terms" title="in terms">in terms</a>, <a href="http://ejje.weblio.jp/content/in+terms+of" title="in terms of">in terms of</a><div class=phraseEjjeAnchor><a href="http://ejje.weblio.jp/phrase/kenej/term" title="term">もっと見る(全6件)</a></div>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td></tr></table>
+
+KEYSTRING = <h2 class=midashigo
+str = <table class="intrst"><tr><td class="intrstL"><h2>termの<br>学習レベル</h2></td><td class="intrstR"><div id="learning-level-table-wrap"><div id="learning-level-table"><div><span class="learning-level-row"><span class="learning-level-label">レベル</span><span>：</span><span class="learning-level-content">1</span><span class="learning-level-label">英検</span><span>：</span><span class="learning-level-content">3級以上の単語</span></span><span class="learning-level-row"><span class="learning-level-label">学校レベル</span><span>：</span><span class="learning-level-content">中学以上の水準</span><span class="learning-level-label">TOEICスコア</span><span>：</span><span class="learning-level-content">220点以上の単語</span></span></div></div><div id="leadBtnWrp"><div id="leadToVocabIndexBtnWrp" class="insideLlTable"><a id="leadToVocabIndexBtn" class="commonBtn" href="https://uwl.weblio.jp/vocab-index?wpm_source=ejje&amp;wpm_medium=buttonlink&amp;wpm_content=vocab_button&amp;wpm_campaign=vocab">語彙力テストを受ける</a></div><div id="leadToSpeakingTestIndexBtnWrp" class="insideLlTable"><a id="leadToSpeakingTestIndexBtn" class="commonBtn" href="http://uwl.weblio.jp/speaking-test?wpm_category=lead-to-spt&amp;wpm_action=ejje-content?amp;wpm_label=spt-orange-button">スピーキングテストを受ける</a></div></div></div></td></tr></table>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = <div id=hideDictMsgKENEJ></div>
+
+KEYSTRING = <h2 class=midashigo
+str = <!-- 開始 #hideDictPrsKENEJ -->
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=hideDictPrs id=hideDictPrsKENEJ>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class="mainBlock hlt_KENEJ">
+
+KEYSTRING = <h2 class=midashigo
+str = <!--開始 研究社 新英和中辞典-->
+
+KEYSTRING = <h2 class=midashigo
+str = <a name="KENEJ"></a>
+
+KEYSTRING = <h2 class=midashigo
+str = <table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="http://ejje.weblio.jp/category/dictionary/kenej/a" title="英和辞典">研究社 新英和中辞典での「term」の意味</a></h2></td>
+
+KEYSTRING = <h2 class=midashigo
+str = <td class="right">
+
+KEYSTRING = <h2 class=midashigo
+str = <div style="float:right;">
+
+KEYSTRING = <h2 class=midashigo
+str = 
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </td></tr></table>
+
+KEYSTRING = <h2 class=midashigo
+str = <b class=clrBc></b>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=kijiWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=hideDictWrp>
+
+KEYSTRING = <h2 class=midashigo
+str = <p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmKENEJ');"></p>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=hideDictConfirm style="display:none;" id=hideDictConfirmKENEJ>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('http://ejje.weblio.jp/content/term', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=hideDictConfirmLink>※辞書の非表示は、<a href="http://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = </div>
+
+KEYSTRING = <h2 class=midashigo
+str = <div class=kiji>
+
+KEYSTRING = <h2 class=midashigo
+after body tag was read
+after str was check
+after print output file
