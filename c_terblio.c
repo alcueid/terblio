@@ -13,6 +13,10 @@ int main(int argc, char *argv[])
   int newline_cnt;
   int len;
 
+  if (argc != 2) {
+    fprintf(stderr, "%s\n", "usage: tb en_word");
+  }
+
   strncpy(fname, argv[1], strlen(argv[1]));
   len = strlen(argv[1]);
   fname[len] = '1';
